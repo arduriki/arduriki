@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arduriki
 - 👀 I’m interested in ... becoming an multiplatform app dev.
-- 🌱 I’m currently learning ... python - soon going to high school for more to learn and have a pro certificate.
+- 🌱 I’m currently learning ... cross-platform app developing.
 - 💞️ I’m looking to collaborate on ... a creative and personal enrichment project.
 - 📫 How to reach me ... jordi.ardura.professional@gmail.com
 
