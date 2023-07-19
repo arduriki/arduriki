@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python, Java, MySQL and a bit of web-stack like HTML, CSS, JavaScript and PHP. All these at UVic.
 - 💞️ I’m looking to collaborate on ... a project that can help me to grow as a Data Scientist or Software Engineer.
 - 📫 How to reach me ... jordi.ardura.professional@gmail.com
-- 💼 Soon I'll be uploading some public repositories based on the education received.
+- 💼 Soon ... I'll be uploading some public repositories based on the education received.
 
 <!---
 arduriki/arduriki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
