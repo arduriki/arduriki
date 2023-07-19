@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arduriki
-- 👀 I’m interested in ... becoming a cross-platform app developer.
-- 🌱 I’m currently learning ... cross-platform app developing at UVic.
-- 💞️ I’m looking to collaborate on ... a creative and personal enrichment project.
+- 👀 I’m interested in ... becoming a cross-platform app developer or Data Science.
+- 🌱 I’m currently learning ... Python, Java, MySQL and a bit of web-stack like HTML, CSS, JavaScript and PHP. All these at UVic.
+- 💞️ I’m looking to collaborate on ... a project that can help me to grow as a Data Scientist or Software Engineer.
 - 📫 How to reach me ... jordi.ardura.professional@gmail.com
 
 <!---
