@@ -2,7 +2,7 @@ Network Support Technician turned Backend Developer. Leveraging my ISP experienc
 
 I thrive in environments where I can learn new technologies and apply them to solve real-world problems.
 
-Not a unicorn 🦄 - just a developer who believes in solid foundations, clean code, and constant evolution.
+Not a unicorn 🦄 - just a tech enthusiast who believes in solid foundations and constant evolution.
 
 <!---
 arduriki/arduriki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
