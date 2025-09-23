@@ -1,8 +1,42 @@
-<h3 align="center">Hi 👋! My name is Jordi Ardura and I'm a Backend Engineer on the making, from Barcelona 🇪🇸</h3>
+<h3 align="left">Hi 👋! My name is Jordi Ardura and I'm a Backend Engineer on the making, from Barcelona 🇪🇸</h3>
 
 ###
 
-<p align="center">## 🚀 About Me<br>Recent **Higher Vocational Training graduate** in Multiplatform Application Development from Spain, transitioning into **Backend Engineering** with a focus on **Go programming**.<br><br>Currently building my expertise in:<br>- 🐹 **Go** - Learning fundamentals and best practices<br>- 🛠️ **Backend Development** - APIs, databases, and system design<br>- ☁️ **Cloud Technologies** - Preparing for AWS certification<br><br>## 🌱 What I'm Learning<br>- Web development and REST APIs<br>- Docker containerization<br>- Kubernetes<br>- CI/CD with GitHub Actions<br>- Testing methodologies<br><br>## 📫 Let's Connect<br>- 💼 Open to **junior backend opportunities** in Spain/Europe<br>- 🌍 **C1 English** - Available for remote work or in <br><br>---<br>*"Learning in public and building one commit at a time"* 🔨</p>
+<h2>🚀 About Me</h2>
+<p>Recent <strong>Higher Vocational Training graduate</strong> in Multiplatform Application Development from Spain, transitioning into <strong>Backend Engineering</strong> with a focus on <strong>Go programming</strong>.</p>
+
+<p>Currently building my expertise in:</p>
+<ul>
+    <li>🐹 <strong>Go</strong> - Learning fundamentals and best practices</li>
+    <li>🛠️ <strong>Backend Development</strong> - APIs, databases, and system design</li>
+    <li>☁️ <strong>Cloud Technologies</strong> - Preparing for AWS certification</li>
+    <li>📚 <strong>Following roadmap.sh</strong> backend path</li>
+</ul>
+
+<h2>🌱 What I'm Learning</h2>
+<ul>
+    <li>Web development and REST APIs</li>
+    <li>Docker containerization</li>
+    <li>Testing methodologies</li>
+    <li>Containerization and orchestration</li>
+    <li>CI/CD</li>
+</ul>
+
+<h2>🎯 2025 Goals</h2>
+<ul>
+    <li>☐ Master Go programming language</li>
+    <li>☐ Contribute to open source projects</li>
+    <li>☐ Land my first Backend Engineer role</li>
+</ul>
+
+<h2>📫 Let's Connect</h2>
+<ul>
+    <li>💼 Open to <strong>junior backend opportunities</strong> in Spain/Europe</li>
+    <li>🌍 <strong>C1 English</strong></li>
+</ul>
+
+<hr>
+<p align="center"><em>"Learning in public and building one commit at a time"</em> 🔨</p>
 
 ###
 
@@ -18,23 +52,15 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="display: inline-block; margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" style="display: inline-block;" />
 </div>
 
 ###
