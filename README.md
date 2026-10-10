@@ -28,7 +28,7 @@
 <ul>
     <li>💼 Looking for my first <strong>Rust opportunity</strong> (remote welcome)</li>
     <li>🌍 <strong>C1 English</strong> · Native Catalan & Spanish</li>
-    <li>📖 Learning in public — every project comes with a writ
+    <li>📖 Learning in public — every project comes with a write-up</li>
 </ul>
 
 <hr>
