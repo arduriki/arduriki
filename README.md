@@ -11,7 +11,6 @@
 <h2>🔨 What I'm Building</h2>
 <ul>
     <li>🦀 <strong><a href="https://github.com/arduriki/task_tracker">Task Tracker CLI</a></strong> — a command-line task manager, built step by step to learn Rust</li>
-    <li>🌍 <strong><a href="https://arduriki.dev">arduriki.dev</a></strong> — personal site built with Hugo + GitHub Actions</li>
 </ul>
 
 <h2>🧭 What's Next</h2>
